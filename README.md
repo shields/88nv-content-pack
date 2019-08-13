@@ -8,7 +8,7 @@ pilot advisory, the plates, and the waypoints.  The PDFs will appear
 categorized in the "Procedures" tab of 88NV's airport page!
 
 To install,
-[click here](https://foreflight.com/content?downloadURL=https://github.com/shields/88nv-content-pack/releases/latest/download/88nv.zip)
+[click here](https://foreflight.com/content?downloadURL=https://github.com/shields/88nv-content-pack/releases/latest/download/88NV.zip)
 from an iOS browser, or
 [download the zip](https://github.com/shields/88nv-content-pack/releases)
 and transfer using AirDrop.
