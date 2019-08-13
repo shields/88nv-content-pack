@@ -16,7 +16,7 @@ and transfer using AirDrop.
 ⚠️  Although this information is redistributed with permission, the
 content pack is an *unofficial* source and may be out of date.  You,
 the PIC, are responsible for obtaining current information from
-[88NV's web site](https://airport.burningman.org/) and the
-`airport-announce` mailing list.
+[88NV's web site](https://airport.burningman.org/flight-planning/)
+and the `airport-announce` mailing list.
 
 Fly safe!
