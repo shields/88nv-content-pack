@@ -11,7 +11,8 @@ To install,
 [click here](https://foreflight.com/content?downloadURL=https://github.com/shields/88nv-content-pack/releases/latest/download/88NV.zip)
 from an iOS browser, or
 [download the zip](https://github.com/shields/88nv-content-pack/releases)
-and transfer using AirDrop.
+and transfer using AirDrop.  You will need a subscription other
+than the "Basic" plan.
 
 ⚠️  Although this information is redistributed with permission, the
 content pack is an *unofficial* source and may be out of date.  You,
